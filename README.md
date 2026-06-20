@@ -1,5 +1,4 @@
 # Task Manager
-
 Productivity app for managing tasks and projects.
 ## Features
 - Kanban boards
@@ -12,6 +11,5 @@ Productivity app for managing tasks and projects.
 - Vue.js
 - Firebase
 - Vuex
-
 ## License
 MIT
