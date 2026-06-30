@@ -10,5 +10,5 @@ Productivity app for managing tasks and projects.
 - Vue.js
 - Firebase
 - Vuex
-## License
+License
 MIT
