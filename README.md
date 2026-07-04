@@ -8,6 +8,5 @@ Productivity app for managing tasks and projects.
 - Time tracking
 ## Tech Stack
 - Vue.js
-- Firebase
-License
+- icense
 MIT
